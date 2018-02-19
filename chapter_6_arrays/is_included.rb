@@ -9,3 +9,13 @@ number = 3
   else
     puts "Could not find this number in the array..."
   end
+
+
+
+# colors = 'blue pink yellow orange'
+
+# puts colors.include?('yellow')
+# puts colors.include?('purple')
+
+# user_input = gets.chomp.downcase
+# ['yes', 'yeah'].include?(user_input)
